@@ -99,7 +99,7 @@ The security-service module contains the main application logic and GUI.
 
 | Technology | Purpose |
 |---|---|
-| Java 14 | Core application development |
+| Java 17 | Core application development |
 | Maven | Build and dependency management |
 | JUnit 5 | Unit testing |
 | Mockito | Mocking framework |
